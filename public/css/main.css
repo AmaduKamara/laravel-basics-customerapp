@@ -1,0 +1,14 @@
+.page-item.active .page-link {
+  z-index: 3;
+  color: #fff;
+  background-color: #4FA2B9;
+  border-color: #4FA2B9;
+}
+
+.page-link {
+  color: #4FA2B9;
+}
+
+.wrapper{
+  width: 700px;
+}
